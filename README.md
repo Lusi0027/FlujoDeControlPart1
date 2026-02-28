@@ -11,6 +11,7 @@ Este programa permite calcular el Impuesto Sobre la Renta (ISR) de un empleado a
 5.	Se muestran los resultados en pantalla.
 
 **Escala del ISR utilizada (DGII 2026)**
+
 •	Rentas hasta RD$416,220.00: exento.
 
 •	Rentas desde RD$416,220.01 hasta RD$624,329.00: 15% del excedente de RD$416,220.01.
